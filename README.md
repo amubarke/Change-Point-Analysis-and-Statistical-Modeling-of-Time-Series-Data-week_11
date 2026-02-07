@@ -39,7 +39,7 @@ An interactive dashboard (Streamlit) provides visualization of price trends, vol
    - Develop an interactive dashboard to visualize trends, volatility, and change points.
 
 ---
-
+---
 ## Project Structure
 
 week_11_project/
@@ -58,4 +58,5 @@ week_11_project/
 ├── README.md
 
 ---
+
 
