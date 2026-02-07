@@ -41,6 +41,7 @@ An interactive dashboard (Streamlit) provides visualization of price trends, vol
 ---
 
 ## Project Structure
+
 week_11_project/
 ├── data/raw
 │ ├── brent_oil_prices.csv # Historical Brent oil prices
@@ -56,3 +57,5 @@ week_11_project/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+
+---
