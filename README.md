@@ -174,11 +174,11 @@ The dashboard runs at: http://localhost:3000
 
 ### Usage
 
-  - 1 Open the React dashboard in your browser.
-  - 2 Use Start Date / End Date filters to select a custom time range.
-  - 3 Hover over events to see descriptions and categories.
-  - 4 Analyze historical prices, volatility, and average price changes.
-  - 5 Explore trends with the event highlight functionality.
+  -  Open the React dashboard in your browser.
+  -  Use Start Date / End Date filters to select a custom time range.
+  -  Hover over events to see descriptions and categories.
+  -  Analyze historical prices, volatility, and average price changes.
+  -  Explore trends with the event highlight functionality.
 
 ### Data Sources
 
@@ -187,7 +187,8 @@ The dashboard runs at: http://localhost:3000
   
 
 ### Project Structure
-  week_11_project/
+week_11_project/
+
 ├── data/raw
 │ ├── brent_oil_prices.csv # Historical Brent oil prices
 │ ├── events.csv # Key geopolitical & OPEC events
