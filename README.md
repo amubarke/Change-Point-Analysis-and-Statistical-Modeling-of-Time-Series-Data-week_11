@@ -25,6 +25,7 @@ This repository contains **all Week 11 tasks**, focusing on **change point analy
     - [Features in Frontend](#features-in-frontend)
     - [Usage](#usage)
     - [Data Sources](#data-sources)
+    - [Project Structure](#project-structure)
 
 ---
 
@@ -183,3 +184,21 @@ The dashboard runs at: http://localhost:3000
 
    - BrentOilPrices.csv → Daily historical Brent crude oil prices.
    - events.csv → Key geopolitical, economic, and market events.
+  
+
+### Project Structure
+  week_11_project/
+├── data/raw
+│ ├── brent_oil_prices.csv # Historical Brent oil prices
+│ ├── events.csv # Key geopolitical & OPEC events
+├── src/
+│ ├── eda.py # EDA and time series analysis class
+│ ├── change_point_model.py # Bayesian Change Point model
+├── dashboard/
+│ ├── app.py # react dashboard
+├── notebooks/
+│ ├── change_point.ipynb
+│ ├── EDA.ipynb # EDA notebook
+│ ├── Task_1.ipynb # Data Analysis workflow,events
+├── requirements.txt
+├── README.md
