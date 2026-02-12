@@ -188,7 +188,7 @@ The dashboard runs at: http://localhost:3000
 
 ### Project Structure
 week_11_project/
-
+```
 ├── data/raw
 │ ├── brent_oil_prices.csv # Historical Brent oil prices
 │ ├── events.csv # Key geopolitical & OPEC events
@@ -203,3 +203,4 @@ week_11_project/
 │ ├── Task_1.ipynb # Data Analysis workflow,events
 ├── requirements.txt
 ├── README.md
+```
