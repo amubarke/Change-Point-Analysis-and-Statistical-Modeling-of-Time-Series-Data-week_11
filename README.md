@@ -174,11 +174,11 @@ The dashboard runs at: http://localhost:3000
 
 ### Usage
 
-  1 Open the React dashboard in your browser.
-  2 Use Start Date / End Date filters to select a custom time range.
-  3 Hover over events to see descriptions and categories.
-  4 Analyze historical prices, volatility, and average price changes.
-  5 Explore trends with the event highlight functionality.
+  - 1 Open the React dashboard in your browser.
+  - 2 Use Start Date / End Date filters to select a custom time range.
+  - 3 Hover over events to see descriptions and categories.
+  - 4 Analyze historical prices, volatility, and average price changes.
+  - 5 Explore trends with the event highlight functionality.
 
 ### Data Sources
 
